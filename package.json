@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hui2016/hello-world/issues"
   },
-  "homepage": "https://github.com/hui2016/hello-world#readme"
+  "homepage": "https://github.com/hui2016/hello-world#readme",
+  "dependencies": {
+    "react": "^15.5.4"
+  }
 }
